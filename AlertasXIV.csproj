@@ -1,0 +1,13 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>0.0.4.0</Version>
+    <Description>Avisa de las Fêtes de la Restauración de Ishgardiense (Skyrise Celebration) en The Firmament.</Description>
+    <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
+    <IsPackable>false</IsPackable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="images\icon.png" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

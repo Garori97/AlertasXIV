@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "Garori",
+    "Name": "Alertas XIV",
+    "InternalName": "AlertasXIV",
+    "AssemblyVersion": "0.0.4.0",
+    "Punchline": "Avisos de las Fêtes de Ishgardian Restoration.",
+    "Description": "Lee el indicador de la Skyrise Celebration (Restauración de Ishgardiense) y avisa antes de que empiecen las Fêtes y cuando están activas.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Garori97/AlertasXIV",
+    "Tags": ["fete", "firmament", "ishgardian restoration", "alertas"],
+    "DalamudApiLevel": 15,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/Garori97/AlertasXIV/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Garori97/AlertasXIV/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Garori97/AlertasXIV/releases/latest/download/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Garori97/AlertasXIV/main/images/icon.png"
+  }
+]

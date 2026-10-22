@@ -1,0 +1,11 @@
+{
+  "Author": "Garori",
+  "Name": "Alertas XIV",
+  "InternalName": "AlertasXIV",
+  "Punchline": "Avisos de las Fêtes de Ishgardian Restoration.",
+  "Description": "Lee el indicador de la Skyrise Celebration (Restauración de Ishgardiense) y avisa antes de que empiecen las Fêtes y cuando están activas. Puede limitarse a un mundo concreto.",
+  "Tags": ["fete", "firmament", "ishgardian restoration", "alertas"],
+  "CategoryTags": ["utility"],
+  "RepoUrl": "https://github.com/Garori97/AlertasXIV",
+  "IconUrl": ""
+}
